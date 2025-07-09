@@ -4,9 +4,6 @@
 🧩 Skilled in n8n automation and local LLM integrations
 🚀 Passionate about turning ideas into real web apps overnight
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashankchoudhary792@gmail.com) 
