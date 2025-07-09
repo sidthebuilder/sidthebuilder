@@ -1,7 +1,6 @@
 👋 Hi, my name is Shashank
 🎓 CS student at University of the People
 💻 Full-Stack Developer & Freelancer on Upwork
-🧩 Skilled in n8n automation and local LLM integrations
 🚀 Passionate about turning ideas into real web apps overnight
 
 
