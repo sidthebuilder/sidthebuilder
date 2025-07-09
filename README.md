@@ -3,7 +3,8 @@
 💻 Full-Stack Developer & Freelancer on Upwork
 🚀 Passionate about turning ideas into real web apps overnight
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sidthebuilder&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![Freelancer on Upwork](https://img.shields.io/badge/Freelancer-Upwork-blue?logo=upwork&logoColor=white)
+![AI Developer](https://img.shields.io/badge/AI%20Developer-Python%20%7C%20n8n%20%7C%20LLMs-brightgreen)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashankchoudhary792@gmail.com) 
