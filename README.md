@@ -1,17 +1,17 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shashank;Full+Stack+Developer;AI+Training+Specialist;Building+the+Future+with+Code" alt="Typing SVG" />
+</h1>
 
-# 👋 Hi, I'm Shashank
+<p align="center">
+  <a href="mailto:shashankchoudhry792@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sidthebuilder.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://upwork.com/freelancers/yourhandle"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+</p>
 
-### Full Stack Developer & AI Training Specialist
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankchoudhry792@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sidthebuilder.github.io)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/yourhandle)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sidthebuilder&color=6366f1&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sidthebuilder&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -120,16 +120,6 @@ Desktop trading app for GMX V2 with Flask backend and PyQt5 GUI.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidthebuilder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sidthebuilder&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-  </a>
 </p>
 
 ---
