@@ -12,27 +12,26 @@
   <img src="https://komarev.com/ghpvc/?username=sidthebuilder&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
----
+## 👨‍💻 About Me
 
-```javascript
-const shashank = {
-    title: "Full Stack Developer & AI Training Specialist",
-    education: "CS Student @ University of the People",
-    location: "India 🇮🇳 | Remote Worldwide",
-    
-    skills: {
-        languages: ["Python", "JavaScript", "TypeScript", "C#", "SQL"],
-        frontend: ["React", "Next.js", "TailwindCSS"],
-        backend: ["FastAPI", "Flask", "Node.js", "Express"],
-        databases: ["PostgreSQL", "MongoDB", "Supabase"],
-        ai_ml: ["OpenAI API", "Hugging Face", "LLM Evaluation", "RLHF"],
-        tools: ["Docker", "n8n", "GitHub Actions"]
-    },
-    
-    currentFocus: "Building production-grade AI systems & web applications",
-    funFact: "I've trained ten thousand+ samples for frontier AI models"
-};
-```
+> **Full Stack Developer & AI Training Specialist**  
+> 🎓 CS Student @ University of the People  
+> 📍 India 🇮🇳 | Remote Worldwide
+
+### 💡 What I Work With
+
+**Languages** → Python • JavaScript • TypeScript • C# • SQL  
+**Frontend** → React • Next.js • TailwindCSS  
+**Backend** → FastAPI • Flask • Node.js • Express  
+**Databases** → PostgreSQL • MongoDB • Supabase  
+**AI/ML** → OpenAI API • Hugging Face • LLM Evaluation • RLHF  
+**Tools** → Docker • n8n • GitHub Actions
+
+### 🎯 Current Focus
+Building production-grade AI systems & web applications
+
+### ⚡ Fun Fact
+I've trained **ten thousand+** samples for frontier AI models
 
 ---
 
