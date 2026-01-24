@@ -1,73 +1,137 @@
-## 👋 Hi there, I’m Shashank
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shashank;Full+Stack+Developer;AI+Training+Specialist;Building+the+Future+with+Code" alt="Typing SVG" />
+</h1>
 
-🎓 CS Student @ University of the People  
-💻 Full Stack Developer | Automation Engineer | AI Enthusiast  
-🧠 I build modern web apps, integrate AI tools, and automate workflows using n8n, Python, and Node.js.
+<p align="center">
+  <a href="mailto:shashankchoudhry792@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sidthebuilder.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://upwork.com/freelancers/yourhandle"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+</p>
 
-![Freelancer on Upwork](https://img.shields.io/badge/Freelancer-Upwork-blue?logo=upwork&logoColor=white)
-![AI Developer](https://img.shields.io/badge/AI%20Developer-Python%20%7C%20n8n%20%7C%20LLMs-brightgreen)
-![Open for Consulting](https://img.shields.io/badge/Consulting-Available-success)
-
----
-
-## 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashankchoudhary792@gmail.com)
-
----
-
-## ⚙️ Tech Stack
-
-### 💡 Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🛠️ Backend & API
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-
-### 🧠 AI / Automation
-![n8n](https://img.shields.io/badge/n8n-AI%20Workflows-orange)
-![OpenAI](https://img.shields.io/badge/OpenAI-LLMs-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🐳 DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sidthebuilder&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sidthebuilder&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sidthebuilder&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidthebuilder&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```javascript
+const shashank = {
+    title: "Full Stack Developer & AI Training Specialist",
+    education: "CS Student @ University of the People",
+    location: "India 🇮🇳 | Remote Worldwide",
+    
+    skills: {
+        languages: ["Python", "JavaScript", "TypeScript", "C#", "SQL"],
+        frontend: ["React", "Next.js", "TailwindCSS"],
+        backend: ["FastAPI", "Flask", "Node.js", "Express"],
+        databases: ["PostgreSQL", "MongoDB", "Supabase"],
+        ai_ml: ["OpenAI API", "Hugging Face", "LLM Evaluation", "RLHF"],
+        tools: ["Docker", "n8n", "GitHub Actions"]
+    },
+    
+    currentFocus: "Building production-grade AI systems & web applications",
+    funFact: "I've trained 10,000+ samples for frontier AI models"
+};
+```
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sidthebuilder&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 Featured Projects
 
-<!-- Powered by ChatGPT + Polished for Upwork/Clients -->
+<table>
+<tr>
+<td width="50%">
 
+### 🎣 Isaac Sim Physics
+[![Repo](https://img.shields.io/badge/GitHub-Isaac--fishing--rod-181717?style=flat-square&logo=github)](https://github.com/sidthebuilder/Isaac-fishing-rod)
+
+NVIDIA Isaac Sim 4.5 fishing rod simulation with breakable D6 joints and progressive gravity. **761 lines of physics simulation.**
+
+`Python` `NVIDIA Isaac Sim` `PhysX` `USD`
+
+</td>
+<td width="50%">
+
+### 🤖 NeuroSim Engine
+[![Repo](https://img.shields.io/badge/GitHub-NeuroSim--Engine-181717?style=flat-square&logo=github)](https://github.com/sidthebuilder/-NeuroSim-Engine)
+
+AI character simulation with emotional intelligence, decision-making AI, and behavior trees.
+
+`C#` `Behavior Trees` `Emotional AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚛️ Quantum Optimizer
+[![Repo](https://img.shields.io/badge/GitHub-Quantum--Optimizer-181717?style=flat-square&logo=github)](https://github.com/sidthebuilder/Quantum-Inspired-Distributed-Optimizer)
+
+Classical simulator using quantum-inspired algorithms (QAOA, annealing) for NP-hard optimization.
+
+`Python` `React` `GitHub Actions`
+
+</td>
+<td width="50%">
+
+### 💼 GMX TradeDesk
+[![Repo](https://img.shields.io/badge/GitHub-GMX--TradeDesk-181717?style=flat-square&logo=github)](https://github.com/sidthebuilder/gmx-v2-arbitrum-trader)
+
+Desktop trading app for GMX V2 with Flask backend and PyQt5 GUI.
+
+`Python` `Flask` `PyQt5` `Web3`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,flask,postgresql,mongodb,docker,git&theme=dark&perline=6" />
+</p>
+
+<details>
+<summary>📊 More Details</summary>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, JavaScript, TypeScript, C#, SQL |
+| **Frontend** | React, Next.js 14, TailwindCSS |
+| **Backend** | FastAPI, Flask, Node.js, Express |
+| **Databases** | PostgreSQL, MongoDB, Supabase, Firebase |
+| **AI/ML** | OpenAI API, Hugging Face, LLM Evaluation, RLHF |
+| **DevOps** | Docker, GitHub Actions, n8n |
+| **Simulation** | NVIDIA Isaac Sim, PhysX |
+
+</details>
+
+---
+
+## � GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sidthebuilder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sidthebuilder&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidthebuilder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sidthebuilder&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
+</p>
