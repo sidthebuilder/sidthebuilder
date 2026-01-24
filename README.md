@@ -30,7 +30,7 @@ const shashank = {
     },
     
     currentFocus: "Building production-grade AI systems & web applications",
-    funFact: "I've trained 10,000+ samples for frontier AI models"
+    funFact: "I've trained ten thousand+ samples for frontier AI models"
 };
 ```
 
