@@ -3,15 +3,21 @@
 </h1>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/shashank-kumar-772a2035b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shashankchoudhary792@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://sidthebuilder.github.io/Terminal-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sidthebuilder&color=6366f1&style=flat-square&label=Operational+Logs&base=500" alt="Profile Views"/>
 </p>
 
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <h2 align="left">System Architect & Full Stack Engineer</h2>
+      <h2 align="left">Architect & Full Stack Engineer</h2>
       <p align="left">
-        Specializing in the development of <strong>autonomous intelligence protocols</strong> and <strong>high-performance distributed systems</strong>. I bridge the gap between sophisticated AI models and production-ready web infrastructure, ensuring scalable, secure, and future-proof digital architectures.
+        Specializing in <strong>autonomous intelligence protocols</strong> and <strong>high-performance distributed systems</strong>. I bridge the gap between sophisticated AI models and production-ready web infrastructure.
       </p>
       <br>
       <h3 align="left">Core Technological Ecosystem</h3>
@@ -27,10 +33,10 @@
 
 ---
 
-### Engineering Metrics
+### Technical Activity & Intelligence
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sidthebuilder&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="100%" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/sidthebuilder/sidthebuilder/output/github-contribution-grid-snake-dark.svg" alt="Moving Robot Snake" />
 </p>
 
 ---
