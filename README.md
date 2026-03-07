@@ -30,10 +30,10 @@ Architect and Full Stack Developer specializing in AI training protocols and pro
 
 ---
 
-### GitHub Trophies
+### Technical Activity
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidthebuilder&theme=tokyonight&no-bg=true&margin-w=15&column=3" alt="GitHub Trophies" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sidthebuilder&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 </p>
 
 ---
