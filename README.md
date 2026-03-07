@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner_final.png" width="100%" alt="System Architecture Banner"/>
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=SHASHANK;Architecting+Intelligence;Full+Stack+Engineering;Future-Proof+Systems" alt="Typing SVG" />
 </h1>
