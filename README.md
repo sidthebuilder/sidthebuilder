@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shashank;Full+Stack+Developer;AI+Training+Specialist;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Shashank;Full+Stack+Developer;AI+Training+Specialist;Architecting+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,73 +12,74 @@
   <img src="https://komarev.com/ghpvc/?username=sidthebuilder&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
-## 👨‍💻 About Me
+## Professional Summary
 
-> **Full Stack Developer & AI Training Specialist**  
-> 🎓 CS Student @ University of the People  
-> 📍 India 🇮🇳 | Remote Worldwide
+Architect and Full Stack Developer specializing in AI training protocols and production-grade software. I focus on bridging the gap between frontier AI models and scalable web infrastructure.
 
-### 💡 What I Work With
+*   **Location**: India | Remote Worldwide
+*   **Specialization**: Autonomous Systems, LLM Orchestration, and Physics-Based Simulations.
 
-**Languages** → Python • JavaScript • TypeScript • C# • SQL  
-**Frontend** → React • Next.js • TailwindCSS  
-**Backend** → FastAPI • Flask • Node.js • Express  
-**Databases** → PostgreSQL • MongoDB • Supabase  
-**AI/ML** → OpenAI API • Hugging Face • LLM Evaluation • RLHF  
-**Tools** → Docker • n8n • GitHub Actions
+### Core Competencies
 
-### 🎯 Current Focus
-Building production-grade AI systems & web applications
+**Engineering Foundations** | Python • JavaScript • TypeScript • C# • SQL  
+**Frontend Architecture** | React • Next.js • TailwindCSS  
+**System Backend** | FastAPI • Flask • Node.js • Express  
+**Data Infrastructure** | PostgreSQL • MongoDB • Supabase  
+**Generative AI & ML** | LLM Evaluation • RLHF • OpenAI API • Hugging Face  
+**Infrastructure & DevOps** | Docker • GitHub Actions • Autonomous Agents
 
-### ⚡ Fun Fact
-I've trained **ten thousand+** samples for frontier AI models
+### Strategic Focus
+Currently engineering autonomous multi-agent systems and production-ready AI workflows designed for enterprise scalability.
+
+### Technical Impact
+Contributed to the training and evaluation of over 10,000 datasets for frontier AI models, focusing on alignment and performance optimization.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Implementations
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎣 Isaac Sim Physics
+### Isaac Sim Physics
 [![Repo](https://img.shields.io/badge/GitHub-Isaac--fishing--rod-181717?style=flat-square&logo=github)](https://github.com/sidthebuilder/Isaac-fishing-rod)
 
-NVIDIA Isaac Sim 4.5 fishing rod simulation with breakable D6 joints and progressive gravity. **761 lines of physics simulation.**
+Advanced NVIDIA Isaac Sim simulation featuring breakable D6 joints and progressive gravitational modeling. 
 
-`Python` `NVIDIA Isaac Sim` `PhysX` `USD`
+`NVIDIA Isaac Sim` `PhysX` `USD` `Python`
 
 </td>
 <td width="50%">
 
-### 🤖 NeuroSim Engine
+### NeuroSim Engine
 [![Repo](https://img.shields.io/badge/GitHub-NeuroSim--Engine-181717?style=flat-square&logo=github)](https://github.com/sidthebuilder/-NeuroSim-Engine)
 
-AI character simulation with emotional intelligence, decision-making AI, and behavior trees.
+Behavioral simulation engine utilizing emotional intelligence trees and decision-making AI for complex character interactions.
 
-`C#` `Behavior Trees` `Emotional AI`
+`C#` `Behavior Trees` `Emotional AI` `Simulation`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ⚛️ Quantum Optimizer
+### Quantum Optimizer
 [![Repo](https://img.shields.io/badge/GitHub-Quantum--Optimizer-181717?style=flat-square&logo=github)](https://github.com/sidthebuilder/Quantum-Inspired-Distributed-Optimizer)
 
-Classical simulator using quantum-inspired algorithms (QAOA, annealing) for NP-hard optimization.
+Distributed optimization framework using quantum-inspired algorithms (QAOA, simulated annealing) for complex problem solving.
 
-`Python` `React` `GitHub Actions`
+`Python` `Distributed Systems` `React`
 
 </td>
 <td width="50%">
 
-### 💼 GMX TradeDesk
+### GMX TradeDesk
 [![Repo](https://img.shields.io/badge/GitHub-GMX--TradeDesk-181717?style=flat-square&logo=github)](https://github.com/sidthebuilder/gmx-v2-arbitrum-trader)
 
-Desktop trading app for GMX V2 with Flask backend and PyQt5 GUI.
+High-performance desktop trading interface for GMX V2 protocol on Arbitrum, integrating real-time Web3 analytics.
 
-`Python` `Flask` `PyQt5` `Web3`
+`Web3` `Python` `Flask` `PyQt5`
 
 </td>
 </tr>
@@ -86,30 +87,30 @@ Desktop trading app for GMX V2 with Flask backend and PyQt5 GUI.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Ecosystem
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,flask,postgresql,mongodb,docker,git&theme=dark&perline=6" />
 </p>
 
 <details>
-<summary>📊 More Details</summary>
+<summary>Detailed Stack Breakdown</summary>
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python, JavaScript, TypeScript, C#, SQL |
-| **Frontend** | React, Next.js 14, TailwindCSS |
-| **Backend** | FastAPI, Flask, Node.js, Express |
-| **Databases** | PostgreSQL, MongoDB, Supabase, Firebase |
-| **AI/ML** | OpenAI API, Hugging Face, LLM Evaluation, RLHF |
-| **DevOps** | Docker, GitHub Actions, n8n |
+| Discipline | Technology Stack |
+|:---|:---|
+| **Programming** | Python, JavaScript, TypeScript, C#, SQL |
+| **Interface** | React, Next.js 14, TailwindCSS |
+| **Logic Layer** | FastAPI, Flask, Node.js, Express |
+| **Persistence** | PostgreSQL, MongoDB, Supabase, Firebase |
+| **Intelligence** | OpenAI, Hugging Face, LLM Evaluation, RLHF |
+| **Operations** | Docker, GitHub Actions, n8n |
 | **Simulation** | NVIDIA Isaac Sim, PhysX |
 
 </details>
 
 ---
 
-## 📈 GitHub Stats
+## Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sidthebuilder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
