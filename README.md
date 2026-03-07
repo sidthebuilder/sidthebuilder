@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sidthebuilder&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sidthebuilder&color=6366f1&style=flat-square&label=Profile+Views&base=500" alt="Profile Views"/>
 </p>
 
 ## Professional Summary
