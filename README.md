@@ -36,17 +36,13 @@
 ### Technical Activity & Intelligence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sidthebuilder/sidthebuilder/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Moving Robot Snake" />
+  <img src="https://raw.githubusercontent.com/sidthebuilder/sidthebuilder/output/github-contribution-grid-snake-dark.svg" width="70%" alt="Moving Robot Snake" />
 </p>
 
 ---
 
 <p align="center">
-  <img width="85%" src="https://github-readme-stats.vercel.app/api?username=sidthebuilder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidthebuilder&theme=tokyonight&utcOffset=5.5" alt="Productive Hours" />
+  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidthebuilder&theme=tokyonight&utcOffset=5.5" alt="Productive Hours" />
 </p>
 
 ---
