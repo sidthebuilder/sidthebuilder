@@ -12,20 +12,6 @@ Architect and Full Stack Engineer focused on the intersection of autonomous AI p
 
 ---
 
-### Intelligence & System Logic
-
-```mermaid
-graph LR
-    A[Raw Data] --> B{AI Orchestrator}
-    B --> C[Predictive Models]
-    B --> D[Autonomous Agents]
-    C --> E[Production Insight]
-    D --> E
-    style B fill:#1e1e2e,stroke:#6366F1,stroke-width:2px
-```
-
----
-
 <table border="0">
   <tr>
     <td width="55%">
