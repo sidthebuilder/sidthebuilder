@@ -16,6 +16,10 @@
 
 Architect and Full Stack Developer specializing in AI training protocols and production-grade software. Engineering autonomous multi-agent systems and enterprise AI workflows.
 
+<p align="center">
+  <img src="assets/illustration.png" width="350px" alt="Developer Illustration"/>
+</p>
+
 ---
 
 ### Languages and Tools
