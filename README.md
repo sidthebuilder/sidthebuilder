@@ -6,24 +6,24 @@
   <img src="https://komarev.com/ghpvc/?username=sidthebuilder&color=6366f1&style=flat-square&label=Operational+Logs&base=500" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img src="assets/dev_bot_simple.png" width="500px" alt="Simple and Unique Dev Illustration"/>
-</p>
-
----
-
-<p align="center">
-  <strong>System Architect & Full Stack Engineer</strong><br>
-  Engineering autonomous intelligence and modern web infrastructure.
-</p>
-
----
-
-<h3 align="center">Technological Nexus</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,flask,postgresql,mongodb,docker,git,bash,csharp,dotnet,aws,githubactions,linux&theme=dark&perline=9" />
-</p>
+<table border="0">
+  <tr>
+    <td width="55%">
+      <p align="left">
+        <strong>System Architect & Full Stack Engineer</strong><br>
+        Engineering autonomous intelligence and modern web infrastructure.
+      </p>
+      <hr>
+      <h3 align="left">Technological Nexus</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,flask,postgresql,mongodb,docker,git,bash,csharp,dotnet,aws,githubactions,linux&theme=dark&perline=6" />
+      </p>
+    </td>
+    <td width="45%" align="right">
+      <img src="assets/dev_bot_simple.png" width="100%" alt="Simple and Unique Dev Illustration"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
