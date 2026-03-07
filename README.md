@@ -1,40 +1,52 @@
+<p align="center">
+  <img src="assets/banner_final.png" width="100%" alt="System Architecture Banner"/>
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Shashank;Full+Stack+Developer;AI+Training+Specialist;Architecting+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=SHASHANK;Architecting+Intelligence;Full+Stack+Engineering;Future-Proof+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="mailto:shashankchoudhary792@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shashank-kumar-772a2035b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://sidthebuilder.github.io/Terminal-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sidthebuilder&color=6366f1&style=flat-square&label=Operational+Logs&base=500" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sidthebuilder&color=6366f1&style=flat-square&label=Profile+Views&base=500" alt="Profile Views"/>
-</p>
+## Overview
 
-## Professional Summary
-
-Architect and Full Stack Developer specializing in AI training protocols and production-grade software. Engineering autonomous multi-agent systems and enterprise AI workflows.
-
-<p align="center">
-  <img src="assets/illustration.png" width="350px" alt="Developer Illustration"/>
-</p>
+Architect and Full Stack Engineer focused on the intersection of autonomous AI protocols and high-performance software systems. My work prioritizes structural logic and scalable intelligence.
 
 ---
 
-### Languages and Tools
+### Intelligence & System Logic
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,flask,postgresql,mongodb,docker,git,bash,csharp,dotnet,postgres,aws,githubactions,linux&theme=dark&perline=8" />
-</p>
+```mermaid
+graph LR
+    A[Raw Data] --> B{AI Orchestrator}
+    B --> C[Predictive Models]
+    B --> D[Autonomous Agents]
+    C --> E[Production Insight]
+    D --> E
+    style B fill:#1e1e2e,stroke:#6366F1,stroke-width:2px
+```
 
 ---
 
-### Technical Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sidthebuilder&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-</p>
+<table border="0">
+  <tr>
+    <td width="55%">
+      <h3>Technological Stack</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,flask,postgresql,mongodb,docker,git,bash,csharp,dotnet,aws,githubactions,linux&theme=dark&perline=6" />
+      </p>
+      <h3>Status</h3>
+      <p align="left">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=sidthebuilder&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="150px" alt="GitHub Streak" />
+      </p>
+    </td>
+    <td width="45%" align="right">
+      <img src="assets/illustration_final.png" width="100%" alt="Architect Illustration"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
