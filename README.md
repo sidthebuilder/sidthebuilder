@@ -8,22 +8,30 @@
 
 <table border="0">
   <tr>
-    <td width="55%">
+    <td width="60%" valign="top">
+      <h2 align="left">System Architect & Full Stack Engineer</h2>
       <p align="left">
-        <strong>System Architect & Full Stack Engineer</strong><br>
-        Engineering autonomous intelligence and modern web infrastructure.
+        Specializing in the development of <strong>autonomous intelligence protocols</strong> and <strong>high-performance distributed systems</strong>. I bridge the gap between sophisticated AI models and production-ready web infrastructure, ensuring scalable, secure, and future-proof digital architectures.
       </p>
-      <hr>
-      <h3 align="left">Technological Nexus</h3>
+      <br>
+      <h3 align="left">Core Technological Ecosystem</h3>
       <p align="left">
         <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,flask,postgresql,mongodb,docker,git,bash,csharp,dotnet,aws,githubactions,linux&theme=dark&perline=6" />
       </p>
     </td>
-    <td width="45%" align="right">
-      <img src="assets/dev_bot_simple.png" width="100%" alt="Simple and Unique Dev Illustration"/>
+    <td width="40%" align="right" valign="top">
+      <img src="assets/dev_bot_simple.png" width="100%" alt="Developer Illustration" style="border-radius: 12px;"/>
     </td>
   </tr>
 </table>
+
+---
+
+### Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sidthebuilder&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="100%" alt="GitHub Streak" />
+</p>
 
 ---
 
