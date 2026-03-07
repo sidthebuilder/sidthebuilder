@@ -41,9 +41,10 @@
 
 ---
 
+---
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sidthebuilder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidthebuilder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sidthebuilder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" />
 </p>
 
 ---
