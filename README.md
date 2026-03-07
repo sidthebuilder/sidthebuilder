@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Shashank's Banner"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Shashank;Full+Stack+Developer;AI+Training+Specialist;Architecting+Intelligent+Systems" alt="Typing SVG" />
 </h1>
@@ -16,17 +20,28 @@
 
 Architect and Full Stack Developer specializing in AI training protocols and production-grade software. I focus on bridging the gap between frontier AI models and scalable web infrastructure.
 
-*   **Location**: India | Remote Worldwide
-*   **Specialization**: Autonomous Systems, LLM Orchestration, and Physics-Based Simulations.
+---
 
-### Core Competencies
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>Connect with me</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/shashank-kumar-772a2035b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30px"/></a>
+        <a href="mailto:shashankchoudhary792@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30px"/></a>
+      </p>
+      <h3>Languages and Tools</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,flask,postgresql,mongodb,docker,git,bash,csharp,dotnet,postgres,aws,githubactions,linux&theme=dark&perline=6" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="assets/illustration.png" width="100%" alt="Developer Illustration"/>
+    </td>
+  </tr>
+</table>
 
-**Engineering Foundations** | Python • JavaScript • TypeScript • C# • SQL  
-**Frontend Architecture** | React • Next.js • TailwindCSS  
-**System Backend** | FastAPI • Flask • Node.js • Express  
-**Data Infrastructure** | PostgreSQL • MongoDB • Supabase  
-**Generative AI & ML** | LLM Evaluation • RLHF • OpenAI API • Hugging Face  
-**Infrastructure & DevOps** | Docker • GitHub Actions • Autonomous Agents
+---
 
 ### Strategic Focus
 Currently engineering autonomous multi-agent systems and production-ready AI workflows designed for enterprise scalability.
@@ -61,52 +76,7 @@ Behavioral simulation engine utilizing emotional intelligence trees and decision
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-### Quantum Optimizer
-[![Repo](https://img.shields.io/badge/GitHub-Quantum--Optimizer-181717?style=flat-square&logo=github)](https://github.com/sidthebuilder/Quantum-Inspired-Distributed-Optimizer)
-
-Distributed optimization framework using quantum-inspired algorithms (QAOA, simulated annealing) for complex problem solving.
-
-`Python` `Distributed Systems` `React`
-
-</td>
-<td width="50%">
-
-### GMX TradeDesk
-[![Repo](https://img.shields.io/badge/GitHub-GMX--TradeDesk-181717?style=flat-square&logo=github)](https://github.com/sidthebuilder/gmx-v2-arbitrum-trader)
-
-High-performance desktop trading interface for GMX V2 protocol on Arbitrum, integrating real-time Web3 analytics.
-
-`Web3` `Python` `Flask` `PyQt5`
-
-</td>
-</tr>
 </table>
-
----
-
-## Technical Ecosystem
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,flask,postgresql,mongodb,docker,git&theme=dark&perline=6" />
-</p>
-
-<details>
-<summary>Detailed Stack Breakdown</summary>
-
-| Discipline | Technology Stack |
-|:---|:---|
-| **Programming** | Python, JavaScript, TypeScript, C#, SQL |
-| **Interface** | React, Next.js 14, TailwindCSS |
-| **Logic Layer** | FastAPI, Flask, Node.js, Express |
-| **Persistence** | PostgreSQL, MongoDB, Supabase, Firebase |
-| **Intelligence** | OpenAI, Hugging Face, LLM Evaluation, RLHF |
-| **Operations** | Docker, GitHub Actions, n8n |
-| **Simulation** | NVIDIA Isaac Sim, PhysX |
-
-</details>
 
 ---
 
@@ -119,6 +89,12 @@ High-performance desktop trading interface for GMX V2 protocol on Arbitrum, inte
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidthebuilder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
+</p>
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidthebuilder&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 </p>
 
 ---
