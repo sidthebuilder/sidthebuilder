@@ -86,9 +86,6 @@
     <text x="430" y="644" font-size="13" fill="#8b949e">Interactive CLI developer profile</text>
   </g>
 
-  <!-- Title -->
-  <text x="20" y="-10" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff" dy="1.2em">personal projects tierlist</text>
-
   <!-- Border -->
   <rect x="0.5" y="0.5" width="1199" height="749" fill="none" stroke="#30363d" stroke-width="1"/>
 </svg>
