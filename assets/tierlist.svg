@@ -26,13 +26,17 @@
   <!-- Projects -->
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#e6edf3">
     <!-- S Tier -->
-    <rect x="170" y="20" width="340" height="100" fill="#21262d" rx="6"/>
+    <rect x="170" y="20" width="310" height="100" fill="#21262d" rx="6"/>
     <text x="190" y="54" font-size="18" font-weight="700" fill="#ffffff">Project CHRONOS</text>
     <text x="190" y="84" font-size="13" fill="#8b949e">Ephemeral AI agent with provable self-termination</text>
 
-    <rect x="530" y="20" width="400" height="100" fill="#21262d" rx="6"/>
-    <text x="550" y="54" font-size="18" font-weight="700" fill="#ffffff">paac</text>
-    <text x="550" y="84" font-size="13" fill="#8b949e">The Provably Aligned Core verification framework</text>
+    <rect x="500" y="20" width="310" height="100" fill="#21262d" rx="6"/>
+    <text x="520" y="54" font-size="18" font-weight="700" fill="#ffffff">paac</text>
+    <text x="520" y="84" font-size="13" fill="#8b949e">The Provably Aligned Core verification framework</text>
+
+    <rect x="830" y="20" width="300" height="100" fill="#21262d" rx="6"/>
+    <text x="850" y="54" font-size="18" font-weight="700" fill="#ffffff">cellhawk-core</text>
+    <text x="850" y="84" font-size="13" fill="#8b949e">GPS-denied drone swarm navigation</text>
 
     <!-- A Tier -->
     <rect x="170" y="160" width="300" height="100" fill="#21262d" rx="6"/>
