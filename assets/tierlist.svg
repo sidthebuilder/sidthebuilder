@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="My personal projects tierlist">
-  <rect width="1200" height="750" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="My personal projects tierlist">
+  <rect width="1200" height="560" fill="#0d1117"/>
 
   <!-- Tier Labels -->
   <g>
@@ -7,13 +7,11 @@
     <rect x="0" y="140" width="140" height="140" fill="#f2ba7b"/>
     <rect x="0" y="280" width="140" height="140" fill="#f0dc84"/>
     <rect x="0" y="420" width="140" height="140" fill="#e8ef78"/>
-    <rect x="0" y="560" width="140" height="140" fill="#acef71"/>
 
     <text x="70" y="70" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="44" fill="#232a36" font-weight="bold">S</text>
     <text x="70" y="210" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="44" fill="#232a36" font-weight="bold">A</text>
     <text x="70" y="350" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="44" fill="#232a36" font-weight="bold">B</text>
     <text x="70" y="490" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="44" fill="#232a36" font-weight="bold">C</text>
-    <text x="70" y="630" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="44" fill="#232a36" font-weight="bold">D</text>
   </g>
 
   <!-- Grid Lines -->
@@ -22,74 +20,56 @@
     <line x1="0" y1="280" x2="1200" y2="280"/>
     <line x1="0" y1="420" x2="1200" y2="420"/>
     <line x1="0" y1="560" x2="1200" y2="560"/>
-    <line x1="0" y1="700" x2="1200" y2="700"/>
-    <line x1="140" y1="0" x2="140" y2="750"/>
+    <line x1="140" y1="0" x2="140" y2="560"/>
   </g>
 
   <!-- Projects -->
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#e6edf3">
     <!-- S Tier -->
     <rect x="170" y="20" width="340" height="100" fill="#21262d" rx="6"/>
-    <text x="190" y="54" font-size="18" font-weight="700" fill="#ffffff">NeuroSim Engine</text>
-    <text x="190" y="84" font-size="13" fill="#8b949e">Emotional AI &amp; character interaction system</text>
+    <text x="190" y="54" font-size="18" font-weight="700" fill="#ffffff">Project CHRONOS</text>
+    <text x="190" y="84" font-size="13" fill="#8b949e">Ephemeral AI agent with provable self-termination</text>
 
-    <rect x="530" y="20" width="360" height="100" fill="#21262d" rx="6"/>
-    <text x="550" y="54" font-size="18" font-weight="700" fill="#ffffff">Quantum Optimizer</text>
-    <text x="550" y="84" font-size="13" fill="#8b949e">Quantum-inspired algorithms simulator</text>
-
-    <rect x="910" y="20" width="270" height="100" fill="#21262d" rx="6"/>
-    <text x="930" y="54" font-size="18" font-weight="700" fill="#ffffff">Project CHRONOS</text>
-    <text x="930" y="84" font-size="13" fill="#8b949e">Cryptographic AI containment</text>
+    <rect x="530" y="20" width="400" height="100" fill="#21262d" rx="6"/>
+    <text x="550" y="54" font-size="18" font-weight="700" fill="#ffffff">paac</text>
+    <text x="550" y="84" font-size="13" fill="#8b949e">The Provably Aligned Core verification framework</text>
 
     <!-- A Tier -->
-    <rect x="170" y="160" width="220" height="100" fill="#21262d" rx="6"/>
-    <text x="190" y="194" font-size="18" font-weight="700" fill="#ffffff">VoxGen AI</text>
-    <text x="190" y="224" font-size="13" fill="#8b949e">Generative voice synthesis</text>
+    <rect x="170" y="160" width="300" height="100" fill="#21262d" rx="6"/>
+    <text x="190" y="194" font-size="18" font-weight="700" fill="#ffffff">epistemic-infrastructure</text>
+    <text x="190" y="224" font-size="13" fill="#8b949e">Epistemic infrastructure for AI</text>
 
-    <rect x="410" y="160" width="350" height="100" fill="#21262d" rx="6"/>
-    <text x="430" y="194" font-size="18" font-weight="700" fill="#ffffff">Isaac Sim Fishing</text>
-    <text x="430" y="224" font-size="13" fill="#8b949e">Physics simulation in NVIDIA Isaac Sim</text>
+    <rect x="490" y="160" width="330" height="100" fill="#21262d" rx="6"/>
+    <text x="510" y="194" font-size="18" font-weight="700" fill="#ffffff">Solar-Phantom</text>
+    <text x="510" y="224" font-size="13" fill="#8b949e">High-Fidelity MDO for Solar UAVs</text>
 
-    <rect x="780" y="160" width="380" height="100" fill="#21262d" rx="6"/>
-    <text x="800" y="194" font-size="18" font-weight="700" fill="#ffffff">AutoML Orchestrator</text>
-    <text x="800" y="224" font-size="13" fill="#8b949e">Agent framework for ML workflows</text>
+    <rect x="840" y="160" width="280" height="100" fill="#21262d" rx="6"/>
+    <text x="860" y="194" font-size="18" font-weight="700" fill="#ffffff">Dimenshift</text>
+    <text x="860" y="224" font-size="13" fill="#8b949e">Dimensional shifting mechanics</text>
 
     <!-- B Tier -->
-    <rect x="170" y="300" width="220" height="100" fill="#21262d" rx="6"/>
-    <text x="190" y="334" font-size="18" font-weight="700" fill="#ffffff">Polarity</text>
-    <text x="190" y="364" font-size="13" fill="#8b949e">High-performance data engine</text>
+    <rect x="170" y="300" width="320" height="100" fill="#21262d" rx="6"/>
+    <text x="190" y="334" font-size="18" font-weight="700" fill="#ffffff">Isaac-fishing-rod</text>
+    <text x="190" y="364" font-size="13" fill="#8b949e">NVIDIA Isaac Sim Physics simulation</text>
 
-    <rect x="410" y="300" width="240" height="100" fill="#21262d" rx="6"/>
-    <text x="430" y="334" font-size="18" font-weight="700" fill="#ffffff">Gemini CLI</text>
-    <text x="430" y="364" font-size="13" fill="#8b949e">Terminal interface for LLMs</text>
+    <rect x="510" y="300" width="310" height="100" fill="#21262d" rx="6"/>
+    <text x="530" y="334" font-size="18" font-weight="700" fill="#ffffff">gmx-v2-arbitrum-trader</text>
+    <text x="530" y="364" font-size="13" fill="#8b949e">GMX V2 automated trading</text>
 
-    <rect x="670" y="300" width="320" height="100" fill="#21262d" rx="6"/>
-    <text x="690" y="334" font-size="18" font-weight="700" fill="#ffffff">EvoSim</text>
-    <text x="690" y="364" font-size="13" fill="#8b949e">Evolutionary simulation system</text>
+    <rect x="840" y="300" width="250" height="100" fill="#21262d" rx="6"/>
+    <text x="860" y="334" font-size="18" font-weight="700" fill="#ffffff">EcoNode</text>
+    <text x="860" y="364" font-size="13" fill="#8b949e">Ecological node network</text>
 
     <!-- C Tier -->
-    <rect x="170" y="440" width="240" height="100" fill="#21262d" rx="6"/>
-    <text x="190" y="474" font-size="18" font-weight="700" fill="#ffffff">EcoTwin</text>
-    <text x="190" y="504" font-size="13" fill="#8b949e">Environmental digital twin</text>
+    <rect x="170" y="440" width="340" height="100" fill="#21262d" rx="6"/>
+    <text x="190" y="474" font-size="18" font-weight="700" fill="#ffffff">PyRobotics</text>
+    <text x="190" y="504" font-size="13" fill="#8b949e">Python robotics framework</text>
 
-    <rect x="430" y="440" width="410" height="100" fill="#21262d" rx="6"/>
-    <text x="450" y="474" font-size="18" font-weight="700" fill="#ffffff">HDFS Predictor</text>
-    <text x="450" y="504" font-size="13" fill="#8b949e">ML maintenance for distributed systems</text>
-
-    <rect x="860" y="440" width="300" height="100" fill="#21262d" rx="6"/>
-    <text x="880" y="474" font-size="18" font-weight="700" fill="#ffffff">MTD System</text>
-    <text x="880" y="504" font-size="13" fill="#8b949e">Moving Target Defense security</text>
-
-    <!-- D Tier -->
-    <rect x="170" y="580" width="220" height="100" fill="#21262d" rx="6"/>
-    <text x="190" y="614" font-size="18" font-weight="700" fill="#ffffff">PDF Tool</text>
-    <text x="190" y="644" font-size="13" fill="#8b949e">Lightweight PDF transformations</text>
-
-    <rect x="410" y="580" width="380" height="100" fill="#21262d" rx="6"/>
-    <text x="430" y="614" font-size="18" font-weight="700" fill="#ffffff">Terminal Portfolio</text>
-    <text x="430" y="644" font-size="13" fill="#8b949e">Interactive CLI developer profile</text>
+    <rect x="530" y="440" width="400" height="100" fill="#21262d" rx="6"/>
+    <text x="550" y="474" font-size="18" font-weight="700" fill="#ffffff">AutoML-Agent-Orchestrator</text>
+    <text x="550" y="504" font-size="13" fill="#8b949e">Agent framework for ML workflows</text>
   </g>
 
   <!-- Border -->
-  <rect x="0.5" y="0.5" width="1199" height="749" fill="none" stroke="#30363d" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="1199" height="559" fill="none" stroke="#30363d" stroke-width="1"/>
 </svg>
